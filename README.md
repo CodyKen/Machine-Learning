@@ -1,6 +1,6 @@
 # Machine-Learning
 
-Codes and reports for four projects in CSC3100 Data Structure 2023 Fall.
+Codes for projects in DDA3020/DDA4210 Machine Learning/Advanced Machine Learning.
 
 Academic Code:
 
